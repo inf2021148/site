@@ -12,3 +12,5 @@ tags:
   - Microsoft
   - Windows 7
 ---
+
+{% include bio-allen.md %}
