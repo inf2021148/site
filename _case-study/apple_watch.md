@@ -13,3 +13,5 @@ tags:
   - MacBook
   - Apple Store
 ---
+
+{% include cd-apple_watch.md %}
